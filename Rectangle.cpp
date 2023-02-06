@@ -5,8 +5,8 @@ Rectangle::Rectangle()
 {
 	height = 20;
 	width = 5;
-	Size();
-	Draw();
+	//Size();
+	//Draw();
 }
 
 Rectangle::~Rectangle()

@@ -3,12 +3,14 @@
 
 int main()
 {
+	Circle circle;
+	Rectangle rectangle;
 
-    Rectangle* rectangle = new Rectangle;
-    Circle* circle = new Circle;
+	circle.Size();
+	circle.Draw();
 
-    delete rectangle;
-    delete circle;
+	rectangle.Size();
+	rectangle.Draw();
 
 	return 0;
 }

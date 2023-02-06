@@ -5,9 +5,9 @@ Circle::Circle()
 {
 	radius = 100;
 
-	Size();
+	//Size();
 
-	Draw();
+	//Draw();
 }
 
 Circle::~Circle()
