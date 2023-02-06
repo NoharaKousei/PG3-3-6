@@ -11,7 +11,7 @@ Rectangle::Rectangle()
 
 Rectangle::~Rectangle()
 {
-
+	 
 }
 
 void Rectangle::Size()
